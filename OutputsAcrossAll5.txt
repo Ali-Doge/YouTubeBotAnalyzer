@@ -1,0 +1,171 @@
+AttentionLSTM Training PSY
+                                                                           
+Current Num_Layers:  4
+Current Dropout:  0.4
+Current Learning Rate:  0.003
+Current Num_Epochs:  30
+Train accuracy: 1.0
+Test accuracy: 0.9622641801834106
+Train Confusion Matrix:
+[[118   0]
+ [  0 126]]
+Test Confusion Matrix:
+[[55  2]
+ [ 2 47]]
+Train Classification Report:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00       118
+           1       1.00      1.00      1.00       126
+
+    accuracy                           1.00       244
+   macro avg       1.00      1.00      1.00       244
+weighted avg       1.00      1.00      1.00       244
+
+Test Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.96      0.96      0.96        57
+           1       0.96      0.96      0.96        49
+
+    accuracy                           0.96       106
+   macro avg       0.96      0.96      0.96       106
+weighted avg       0.96      0.96      0.96       106
+
+
+AttentionLSTM Training KATY PERRY
+                                                                          
+Current Num_Layers:  4
+Current Dropout:  0.4
+Current Learning Rate:  0.003
+Current Num_Epochs:  30
+Train accuracy: 1.0
+Test accuracy: 0.9150943160057068
+Train Confusion Matrix:
+[[118   0]
+ [  0 126]]
+Test Confusion Matrix:
+[[53  4]
+ [ 5 44]]
+Train Classification Report:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00       118
+           1       1.00      1.00      1.00       126
+
+    accuracy                           1.00       244
+   macro avg       1.00      1.00      1.00       244
+weighted avg       1.00      1.00      1.00       244
+
+Test Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.91      0.93      0.92        57
+           1       0.92      0.90      0.91        49
+
+    accuracy                           0.92       106
+   macro avg       0.92      0.91      0.91       106
+weighted avg       0.92      0.92      0.92       106
+
+AttentionLSTM Training  LMFAO
+                                                                           
+Current Num_Layers:  4
+Current Dropout:  0.4
+Current Learning Rate:  0.003
+Current Num_Epochs:  30
+Train accuracy: 1.0
+Test accuracy: 0.9015151262283325
+Train Confusion Matrix:
+[[142   0]
+ [  0 164]]
+Test Confusion Matrix:
+[[57  3]
+ [10 62]]
+Train Classification Report:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00       142
+           1       1.00      1.00      1.00       164
+
+    accuracy                           1.00       306
+   macro avg       1.00      1.00      1.00       306
+weighted avg       1.00      1.00      1.00       306
+
+Test Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.85      0.95      0.90        60
+           1       0.95      0.86      0.91        72
+
+    accuracy                           0.90       132
+   macro avg       0.90      0.91      0.90       132
+weighted avg       0.91      0.90      0.90       132
+
+AttentionLSTM Training EMINEM
+                                                                                                                                                      
+Current Num_Layers:  4
+Current Dropout:  0.4
+Current Learning Rate:  0.003
+Current Num_Epochs:  30
+Train accuracy: 1.0
+Test accuracy: 0.9333333373069763
+Train Confusion Matrix:
+[[133   0]
+ [  0 180]]
+Test Confusion Matrix:
+[[65  5]
+ [ 4 61]]
+Train Classification Report:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00       133
+           1       1.00      1.00      1.00       180
+
+    accuracy                           1.00       313
+   macro avg       1.00      1.00      1.00       313
+weighted avg       1.00      1.00      1.00       313
+
+Test Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.94      0.93      0.94        70
+           1       0.92      0.94      0.93        65
+
+    accuracy                           0.93       135
+   macro avg       0.93      0.93      0.93       135
+weighted avg       0.93      0.93      0.93       135
+
+AttentionLSTM Training SHAKIRA
+                                                                           
+Current Num_Layers:  4
+Current Dropout:  0.4
+Current Learning Rate:  0.003
+Current Num_Epochs:  30
+Train accuracy: 1.0
+Test accuracy: 0.954954981803894
+Train Confusion Matrix:
+[[132   0]
+ [  0 127]]
+Test Confusion Matrix:
+[[62  2]
+ [ 3 44]]
+Train Classification Report:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00       132
+           1       1.00      1.00      1.00       127
+
+    accuracy                           1.00       259
+   macro avg       1.00      1.00      1.00       259
+weighted avg       1.00      1.00      1.00       259
+
+Test Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.95      0.97      0.96        64
+           1       0.96      0.94      0.95        47
+
+    accuracy                           0.95       111
+   macro avg       0.96      0.95      0.95       111
+weighted avg       0.95      0.95      0.95       111
+

@@ -1,0 +1,1896 @@
+AttentionLSTM Training
+                                                                        
+Current Num_Layers:  2
+Current Dropout:  0.4
+Current Learning Rate:  0.001
+Current Num_Epochs:  10
+Train accuracy: 0.9713114500045776
+Test accuracy: 0.9056603908538818
+Train Confusion Matrix:
+[[118   0]
+ [  7 119]]
+Test Confusion Matrix:
+[[52  5]
+ [ 5 44]]
+Train Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.94      1.00      0.97       118
+           1       1.00      0.94      0.97       126
+
+    accuracy                           0.97       244
+   macro avg       0.97      0.97      0.97       244
+weighted avg       0.97      0.97      0.97       244
+
+Test Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.91      0.91      0.91        57
+           1       0.90      0.90      0.90        49
+
+    accuracy                           0.91       106
+   macro avg       0.91      0.91      0.91       106
+weighted avg       0.91      0.91      0.91       106
+
+AttentionLSTM Training
+                                                                          
+Current Num_Layers:  2
+Current Dropout:  0.4
+Current Learning Rate:  0.001
+Current Num_Epochs:  30
+Train accuracy: 1.0
+Test accuracy: 0.9150943160057068
+Train Confusion Matrix:
+[[118   0]
+ [  0 126]]
+Test Confusion Matrix:
+[[52  5]
+ [ 4 45]]
+Train Classification Report:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00       118
+           1       1.00      1.00      1.00       126
+
+    accuracy                           1.00       244
+   macro avg       1.00      1.00      1.00       244
+weighted avg       1.00      1.00      1.00       244
+
+Test Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.93      0.91      0.92        57
+           1       0.90      0.92      0.91        49
+
+    accuracy                           0.92       106
+   macro avg       0.91      0.92      0.91       106
+weighted avg       0.92      0.92      0.92       106
+
+AttentionLSTM Training
+                                                                           
+Current Num_Layers:  2
+Current Dropout:  0.4
+Current Learning Rate:  0.001
+Current Num_Epochs:  50
+Train accuracy: 1.0
+Test accuracy: 0.9339622855186462
+Train Confusion Matrix:
+[[118   0]
+ [  0 126]]
+Test Confusion Matrix:
+[[55  2]
+ [ 5 44]]
+Train Classification Report:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00       118
+           1       1.00      1.00      1.00       126
+
+    accuracy                           1.00       244
+   macro avg       1.00      1.00      1.00       244
+weighted avg       1.00      1.00      1.00       244
+
+Test Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.92      0.96      0.94        57
+           1       0.96      0.90      0.93        49
+
+    accuracy                           0.93       106
+   macro avg       0.94      0.93      0.93       106
+weighted avg       0.94      0.93      0.93       106
+
+AttentionLSTM Training
+                                                                        
+Current Num_Layers:  2
+Current Dropout:  0.4
+Current Learning Rate:  0.003
+Current Num_Epochs:  10
+Train accuracy: 0.9959016442298889
+Test accuracy: 0.8867924809455872
+Train Confusion Matrix:
+[[118   0]
+ [  1 125]]
+Test Confusion Matrix:
+[[48  9]
+ [ 3 46]]
+Train Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00       118
+           1       1.00      0.99      1.00       126
+
+    accuracy                           1.00       244
+   macro avg       1.00      1.00      1.00       244
+weighted avg       1.00      1.00      1.00       244
+
+Test Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.94      0.84      0.89        57
+           1       0.84      0.94      0.88        49
+
+    accuracy                           0.89       106
+   macro avg       0.89      0.89      0.89       106
+weighted avg       0.89      0.89      0.89       106
+
+AttentionLSTM Training
+                                                                           
+Current Num_Layers:  2
+Current Dropout:  0.4
+Current Learning Rate:  0.003
+Current Num_Epochs:  30
+Train accuracy: 1.0
+Test accuracy: 0.9245283007621765
+Train Confusion Matrix:
+[[118   0]
+ [  0 126]]
+Test Confusion Matrix:
+[[51  6]
+ [ 2 47]]
+Train Classification Report:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00       118
+           1       1.00      1.00      1.00       126
+
+    accuracy                           1.00       244
+   macro avg       1.00      1.00      1.00       244
+weighted avg       1.00      1.00      1.00       244
+
+Test Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.96      0.89      0.93        57
+           1       0.89      0.96      0.92        49
+
+    accuracy                           0.92       106
+   macro avg       0.92      0.93      0.92       106
+weighted avg       0.93      0.92      0.92       106
+
+AttentionLSTM Training
+                                                                           
+Current Num_Layers:  2
+Current Dropout:  0.4
+Current Learning Rate:  0.003
+Current Num_Epochs:  50
+Train accuracy: 1.0
+Test accuracy: 0.9150943160057068
+Train Confusion Matrix:
+[[118   0]
+ [  0 126]]
+Test Confusion Matrix:
+[[53  4]
+ [ 5 44]]
+Train Classification Report:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00       118
+           1       1.00      1.00      1.00       126
+
+    accuracy                           1.00       244
+   macro avg       1.00      1.00      1.00       244
+weighted avg       1.00      1.00      1.00       244
+
+Test Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.91      0.93      0.92        57
+           1       0.92      0.90      0.91        49
+
+    accuracy                           0.92       106
+   macro avg       0.92      0.91      0.91       106
+weighted avg       0.92      0.92      0.92       106
+
+AttentionLSTM Training
+                                                                         
+Current Num_Layers:  2
+Current Dropout:  0.4
+Current Learning Rate:  0.007
+Current Num_Epochs:  10
+Train accuracy: 1.0
+Test accuracy: 0.9528301954269409
+Train Confusion Matrix:
+[[118   0]
+ [  0 126]]
+Test Confusion Matrix:
+[[55  2]
+ [ 3 46]]
+Train Classification Report:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00       118
+           1       1.00      1.00      1.00       126
+
+    accuracy                           1.00       244
+   macro avg       1.00      1.00      1.00       244
+weighted avg       1.00      1.00      1.00       244
+
+Test Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.95      0.96      0.96        57
+           1       0.96      0.94      0.95        49
+
+    accuracy                           0.95       106
+   macro avg       0.95      0.95      0.95       106
+weighted avg       0.95      0.95      0.95       106
+
+AttentionLSTM Training
+                                                                           
+Current Num_Layers:  2
+Current Dropout:  0.4
+Current Learning Rate:  0.007
+Current Num_Epochs:  30
+Train accuracy: 1.0
+Test accuracy: 0.8773584961891174
+Train Confusion Matrix:
+[[118   0]
+ [  0 126]]
+Test Confusion Matrix:
+[[52  5]
+ [ 8 41]]
+Train Classification Report:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00       118
+           1       1.00      1.00      1.00       126
+
+    accuracy                           1.00       244
+   macro avg       1.00      1.00      1.00       244
+weighted avg       1.00      1.00      1.00       244
+
+Test Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.87      0.91      0.89        57
+           1       0.89      0.84      0.86        49
+
+    accuracy                           0.88       106
+   macro avg       0.88      0.87      0.88       106
+weighted avg       0.88      0.88      0.88       106
+
+AttentionLSTM Training
+                                                                           
+Current Num_Layers:  2
+Current Dropout:  0.4
+Current Learning Rate:  0.007
+Current Num_Epochs:  50
+Train accuracy: 1.0
+Test accuracy: 0.9339622855186462
+Train Confusion Matrix:
+[[118   0]
+ [  0 126]]
+Test Confusion Matrix:
+[[55  2]
+ [ 5 44]]
+Train Classification Report:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00       118
+           1       1.00      1.00      1.00       126
+
+    accuracy                           1.00       244
+   macro avg       1.00      1.00      1.00       244
+weighted avg       1.00      1.00      1.00       244
+
+Test Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.92      0.96      0.94        57
+           1       0.96      0.90      0.93        49
+
+    accuracy                           0.93       106
+   macro avg       0.94      0.93      0.93       106
+weighted avg       0.94      0.93      0.93       106
+
+AttentionLSTM Training
+                                                                        
+Current Num_Layers:  2
+Current Dropout:  0.5
+Current Learning Rate:  0.001
+Current Num_Epochs:  10
+Train accuracy: 0.9754098653793335
+Test accuracy: 0.9056603908538818
+Train Confusion Matrix:
+[[117   1]
+ [  5 121]]
+Test Confusion Matrix:
+[[54  3]
+ [ 7 42]]
+Train Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.96      0.99      0.97       118
+           1       0.99      0.96      0.98       126
+
+    accuracy                           0.98       244
+   macro avg       0.98      0.98      0.98       244
+weighted avg       0.98      0.98      0.98       244
+
+Test Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.89      0.95      0.92        57
+           1       0.93      0.86      0.89        49
+
+    accuracy                           0.91       106
+   macro avg       0.91      0.90      0.90       106
+weighted avg       0.91      0.91      0.91       106
+
+AttentionLSTM Training
+                                                                          
+Current Num_Layers:  2
+Current Dropout:  0.5
+Current Learning Rate:  0.001
+Current Num_Epochs:  30
+Train accuracy: 1.0
+Test accuracy: 0.9528301954269409
+Train Confusion Matrix:
+[[118   0]
+ [  0 126]]
+Test Confusion Matrix:
+[[56  1]
+ [ 4 45]]
+Train Classification Report:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00       118
+           1       1.00      1.00      1.00       126
+
+    accuracy                           1.00       244
+   macro avg       1.00      1.00      1.00       244
+weighted avg       1.00      1.00      1.00       244
+
+Test Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.93      0.98      0.96        57
+           1       0.98      0.92      0.95        49
+
+    accuracy                           0.95       106
+   macro avg       0.96      0.95      0.95       106
+weighted avg       0.95      0.95      0.95       106
+
+AttentionLSTM Training
+                                                                           
+Current Num_Layers:  2
+Current Dropout:  0.5
+Current Learning Rate:  0.001
+Current Num_Epochs:  50
+Train accuracy: 1.0
+Test accuracy: 0.9339622855186462
+Train Confusion Matrix:
+[[118   0]
+ [  0 126]]
+Test Confusion Matrix:
+[[52  5]
+ [ 2 47]]
+Train Classification Report:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00       118
+           1       1.00      1.00      1.00       126
+
+    accuracy                           1.00       244
+   macro avg       1.00      1.00      1.00       244
+weighted avg       1.00      1.00      1.00       244
+
+Test Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.96      0.91      0.94        57
+           1       0.90      0.96      0.93        49
+
+    accuracy                           0.93       106
+   macro avg       0.93      0.94      0.93       106
+weighted avg       0.94      0.93      0.93       106
+
+AttentionLSTM Training
+                                                                        
+Current Num_Layers:  2
+Current Dropout:  0.5
+Current Learning Rate:  0.003
+Current Num_Epochs:  10
+Train accuracy: 0.9631147384643555
+Test accuracy: 0.9339622855186462
+Train Confusion Matrix:
+[[118   0]
+ [  9 117]]
+Test Confusion Matrix:
+[[55  2]
+ [ 5 44]]
+Train Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.93      1.00      0.96       118
+           1       1.00      0.93      0.96       126
+
+    accuracy                           0.96       244
+   macro avg       0.96      0.96      0.96       244
+weighted avg       0.97      0.96      0.96       244
+
+Test Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.92      0.96      0.94        57
+           1       0.96      0.90      0.93        49
+
+    accuracy                           0.93       106
+   macro avg       0.94      0.93      0.93       106
+weighted avg       0.94      0.93      0.93       106
+
+AttentionLSTM Training
+                                                                           
+Current Num_Layers:  2
+Current Dropout:  0.5
+Current Learning Rate:  0.003
+Current Num_Epochs:  30
+Train accuracy: 1.0
+Test accuracy: 0.8962264060974121
+Train Confusion Matrix:
+[[118   0]
+ [  0 126]]
+Test Confusion Matrix:
+[[52  5]
+ [ 6 43]]
+Train Classification Report:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00       118
+           1       1.00      1.00      1.00       126
+
+    accuracy                           1.00       244
+   macro avg       1.00      1.00      1.00       244
+weighted avg       1.00      1.00      1.00       244
+
+Test Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.90      0.91      0.90        57
+           1       0.90      0.88      0.89        49
+
+    accuracy                           0.90       106
+   macro avg       0.90      0.89      0.90       106
+weighted avg       0.90      0.90      0.90       106
+
+AttentionLSTM Training
+                                                                           
+Current Num_Layers:  2
+Current Dropout:  0.5
+Current Learning Rate:  0.003
+Current Num_Epochs:  50
+Train accuracy: 1.0
+Test accuracy: 0.9150943160057068
+Train Confusion Matrix:
+[[118   0]
+ [  0 126]]
+Test Confusion Matrix:
+[[54  3]
+ [ 6 43]]
+Train Classification Report:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00       118
+           1       1.00      1.00      1.00       126
+
+    accuracy                           1.00       244
+   macro avg       1.00      1.00      1.00       244
+weighted avg       1.00      1.00      1.00       244
+
+Test Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.90      0.95      0.92        57
+           1       0.93      0.88      0.91        49
+
+    accuracy                           0.92       106
+   macro avg       0.92      0.91      0.91       106
+weighted avg       0.92      0.92      0.91       106
+
+AttentionLSTM Training
+                                                                        
+Current Num_Layers:  2
+Current Dropout:  0.5
+Current Learning Rate:  0.007
+Current Num_Epochs:  10
+Train accuracy: 0.9959016442298889
+Test accuracy: 0.9150943160057068
+Train Confusion Matrix:
+[[118   0]
+ [  1 125]]
+Test Confusion Matrix:
+[[52  5]
+ [ 4 45]]
+Train Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00       118
+           1       1.00      0.99      1.00       126
+
+    accuracy                           1.00       244
+   macro avg       1.00      1.00      1.00       244
+weighted avg       1.00      1.00      1.00       244
+
+Test Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.93      0.91      0.92        57
+           1       0.90      0.92      0.91        49
+
+    accuracy                           0.92       106
+   macro avg       0.91      0.92      0.91       106
+weighted avg       0.92      0.92      0.92       106
+
+AttentionLSTM Training
+                                                                           
+Current Num_Layers:  2
+Current Dropout:  0.5
+Current Learning Rate:  0.007
+Current Num_Epochs:  30
+Train accuracy: 1.0
+Test accuracy: 0.9056603908538818
+Train Confusion Matrix:
+[[118   0]
+ [  0 126]]
+Test Confusion Matrix:
+[[49  8]
+ [ 2 47]]
+Train Classification Report:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00       118
+           1       1.00      1.00      1.00       126
+
+    accuracy                           1.00       244
+   macro avg       1.00      1.00      1.00       244
+weighted avg       1.00      1.00      1.00       244
+
+Test Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.96      0.86      0.91        57
+           1       0.85      0.96      0.90        49
+
+    accuracy                           0.91       106
+   macro avg       0.91      0.91      0.91       106
+weighted avg       0.91      0.91      0.91       106
+
+AttentionLSTM Training
+                                                                           
+Current Num_Layers:  2
+Current Dropout:  0.5
+Current Learning Rate:  0.007
+Current Num_Epochs:  50
+Train accuracy: 1.0
+Test accuracy: 0.9433962106704712
+Train Confusion Matrix:
+[[118   0]
+ [  0 126]]
+Test Confusion Matrix:
+[[53  4]
+ [ 2 47]]
+Train Classification Report:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00       118
+           1       1.00      1.00      1.00       126
+
+    accuracy                           1.00       244
+   macro avg       1.00      1.00      1.00       244
+weighted avg       1.00      1.00      1.00       244
+
+Test Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.96      0.93      0.95        57
+           1       0.92      0.96      0.94        49
+
+    accuracy                           0.94       106
+   macro avg       0.94      0.94      0.94       106
+weighted avg       0.94      0.94      0.94       106
+
+AttentionLSTM Training
+                                                                        
+Current Num_Layers:  4
+Current Dropout:  0.4
+Current Learning Rate:  0.001
+Current Num_Epochs:  10
+Train accuracy: 0.9672130942344666
+Test accuracy: 0.9056603908538818
+Train Confusion Matrix:
+[[118   0]
+ [  8 118]]
+Test Confusion Matrix:
+[[53  4]
+ [ 6 43]]
+Train Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.94      1.00      0.97       118
+           1       1.00      0.94      0.97       126
+
+    accuracy                           0.97       244
+   macro avg       0.97      0.97      0.97       244
+weighted avg       0.97      0.97      0.97       244
+
+Test Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.90      0.93      0.91        57
+           1       0.91      0.88      0.90        49
+
+    accuracy                           0.91       106
+   macro avg       0.91      0.90      0.90       106
+weighted avg       0.91      0.91      0.91       106
+
+AttentionLSTM Training
+                                                                          
+Current Num_Layers:  4
+Current Dropout:  0.4
+Current Learning Rate:  0.001
+Current Num_Epochs:  30
+Train accuracy: 1.0
+Test accuracy: 0.9528301954269409
+Train Confusion Matrix:
+[[118   0]
+ [  0 126]]
+Test Confusion Matrix:
+[[55  2]
+ [ 3 46]]
+Train Classification Report:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00       118
+           1       1.00      1.00      1.00       126
+
+    accuracy                           1.00       244
+   macro avg       1.00      1.00      1.00       244
+weighted avg       1.00      1.00      1.00       244
+
+Test Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.95      0.96      0.96        57
+           1       0.96      0.94      0.95        49
+
+    accuracy                           0.95       106
+   macro avg       0.95      0.95      0.95       106
+weighted avg       0.95      0.95      0.95       106
+
+AttentionLSTM Training
+                                                                           
+Current Num_Layers:  4
+Current Dropout:  0.4
+Current Learning Rate:  0.001
+Current Num_Epochs:  50
+Train accuracy: 1.0
+Test accuracy: 0.9056603908538818
+Train Confusion Matrix:
+[[118   0]
+ [  0 126]]
+Test Confusion Matrix:
+[[54  3]
+ [ 7 42]]
+Train Classification Report:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00       118
+           1       1.00      1.00      1.00       126
+
+    accuracy                           1.00       244
+   macro avg       1.00      1.00      1.00       244
+weighted avg       1.00      1.00      1.00       244
+
+Test Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.89      0.95      0.92        57
+           1       0.93      0.86      0.89        49
+
+    accuracy                           0.91       106
+   macro avg       0.91      0.90      0.90       106
+weighted avg       0.91      0.91      0.91       106
+
+AttentionLSTM Training
+                                                                         
+Current Num_Layers:  4
+Current Dropout:  0.4
+Current Learning Rate:  0.003
+Current Num_Epochs:  10
+Train accuracy: 0.9918032884597778
+Test accuracy: 0.9150943160057068
+Train Confusion Matrix:
+[[117   1]
+ [  1 125]]
+Test Confusion Matrix:
+[[50  7]
+ [ 2 47]]
+Train Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.99      0.99      0.99       118
+           1       0.99      0.99      0.99       126
+
+    accuracy                           0.99       244
+   macro avg       0.99      0.99      0.99       244
+weighted avg       0.99      0.99      0.99       244
+
+Test Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.96      0.88      0.92        57
+           1       0.87      0.96      0.91        49
+
+    accuracy                           0.92       106
+   macro avg       0.92      0.92      0.92       106
+weighted avg       0.92      0.92      0.92       106
+
+AttentionLSTM Training
+                                                                           
+Current Num_Layers:  4
+Current Dropout:  0.4
+Current Learning Rate:  0.003
+Current Num_Epochs:  30
+Train accuracy: 1.0
+Test accuracy: 0.9622641801834106
+Train Confusion Matrix:
+[[118   0]
+ [  0 126]]
+Test Confusion Matrix:
+[[55  2]
+ [ 2 47]]
+Train Classification Report:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00       118
+           1       1.00      1.00      1.00       126
+
+    accuracy                           1.00       244
+   macro avg       1.00      1.00      1.00       244
+weighted avg       1.00      1.00      1.00       244
+
+Test Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.96      0.96      0.96        57
+           1       0.96      0.96      0.96        49
+
+    accuracy                           0.96       106
+   macro avg       0.96      0.96      0.96       106
+weighted avg       0.96      0.96      0.96       106
+
+AttentionLSTM Training
+                                                                           
+Current Num_Layers:  4
+Current Dropout:  0.4
+Current Learning Rate:  0.003
+Current Num_Epochs:  50
+Train accuracy: 1.0
+Test accuracy: 0.9339622855186462
+Train Confusion Matrix:
+[[118   0]
+ [  0 126]]
+Test Confusion Matrix:
+[[56  1]
+ [ 6 43]]
+Train Classification Report:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00       118
+           1       1.00      1.00      1.00       126
+
+    accuracy                           1.00       244
+   macro avg       1.00      1.00      1.00       244
+weighted avg       1.00      1.00      1.00       244
+
+Test Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.90      0.98      0.94        57
+           1       0.98      0.88      0.92        49
+
+    accuracy                           0.93       106
+   macro avg       0.94      0.93      0.93       106
+weighted avg       0.94      0.93      0.93       106
+
+AttentionLSTM Training
+                                                                        
+Current Num_Layers:  4
+Current Dropout:  0.4
+Current Learning Rate:  0.007
+Current Num_Epochs:  10
+Train accuracy: 0.9918032884597778
+Test accuracy: 0.9339622855186462
+Train Confusion Matrix:
+[[118   0]
+ [  2 124]]
+Test Confusion Matrix:
+[[54  3]
+ [ 4 45]]
+Train Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.98      1.00      0.99       118
+           1       1.00      0.98      0.99       126
+
+    accuracy                           0.99       244
+   macro avg       0.99      0.99      0.99       244
+weighted avg       0.99      0.99      0.99       244
+
+Test Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.93      0.95      0.94        57
+           1       0.94      0.92      0.93        49
+
+    accuracy                           0.93       106
+   macro avg       0.93      0.93      0.93       106
+weighted avg       0.93      0.93      0.93       106
+
+AttentionLSTM Training
+                                                                           
+Current Num_Layers:  4
+Current Dropout:  0.4
+Current Learning Rate:  0.007
+Current Num_Epochs:  30
+Train accuracy: 1.0
+Test accuracy: 0.9339622855186462
+Train Confusion Matrix:
+[[118   0]
+ [  0 126]]
+Test Confusion Matrix:
+[[55  2]
+ [ 5 44]]
+Train Classification Report:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00       118
+           1       1.00      1.00      1.00       126
+
+    accuracy                           1.00       244
+   macro avg       1.00      1.00      1.00       244
+weighted avg       1.00      1.00      1.00       244
+
+Test Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.92      0.96      0.94        57
+           1       0.96      0.90      0.93        49
+
+    accuracy                           0.93       106
+   macro avg       0.94      0.93      0.93       106
+weighted avg       0.94      0.93      0.93       106
+
+AttentionLSTM Training
+                                                                           
+Current Num_Layers:  4
+Current Dropout:  0.4
+Current Learning Rate:  0.007
+Current Num_Epochs:  50
+Train accuracy: 1.0
+Test accuracy: 0.9150943160057068
+Train Confusion Matrix:
+[[118   0]
+ [  0 126]]
+Test Confusion Matrix:
+[[51  6]
+ [ 3 46]]
+Train Classification Report:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00       118
+           1       1.00      1.00      1.00       126
+
+    accuracy                           1.00       244
+   macro avg       1.00      1.00      1.00       244
+weighted avg       1.00      1.00      1.00       244
+
+Test Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.94      0.89      0.92        57
+           1       0.88      0.94      0.91        49
+
+    accuracy                           0.92       106
+   macro avg       0.91      0.92      0.91       106
+weighted avg       0.92      0.92      0.92       106
+
+AttentionLSTM Training
+                                                                        
+Current Num_Layers:  4
+Current Dropout:  0.5
+Current Learning Rate:  0.001
+Current Num_Epochs:  10
+Train accuracy: 0.9959016442298889
+Test accuracy: 0.8773584961891174
+Train Confusion Matrix:
+[[118   0]
+ [  1 125]]
+Test Confusion Matrix:
+[[46 11]
+ [ 2 47]]
+Train Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00       118
+           1       1.00      0.99      1.00       126
+
+    accuracy                           1.00       244
+   macro avg       1.00      1.00      1.00       244
+weighted avg       1.00      1.00      1.00       244
+
+Test Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.96      0.81      0.88        57
+           1       0.81      0.96      0.88        49
+
+    accuracy                           0.88       106
+   macro avg       0.88      0.88      0.88       106
+weighted avg       0.89      0.88      0.88       106
+
+AttentionLSTM Training
+                                                                          
+Current Num_Layers:  4
+Current Dropout:  0.5
+Current Learning Rate:  0.001
+Current Num_Epochs:  30
+Train accuracy: 1.0
+Test accuracy: 0.9339622855186462
+Train Confusion Matrix:
+[[118   0]
+ [  0 126]]
+Test Confusion Matrix:
+[[51  6]
+ [ 1 48]]
+Train Classification Report:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00       118
+           1       1.00      1.00      1.00       126
+
+    accuracy                           1.00       244
+   macro avg       1.00      1.00      1.00       244
+weighted avg       1.00      1.00      1.00       244
+
+Test Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.98      0.89      0.94        57
+           1       0.89      0.98      0.93        49
+
+    accuracy                           0.93       106
+   macro avg       0.93      0.94      0.93       106
+weighted avg       0.94      0.93      0.93       106
+
+AttentionLSTM Training
+                                                                           
+Current Num_Layers:  4
+Current Dropout:  0.5
+Current Learning Rate:  0.001
+Current Num_Epochs:  50
+Train accuracy: 1.0
+Test accuracy: 0.9622641801834106
+Train Confusion Matrix:
+[[118   0]
+ [  0 126]]
+Test Confusion Matrix:
+[[57  0]
+ [ 4 45]]
+Train Classification Report:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00       118
+           1       1.00      1.00      1.00       126
+
+    accuracy                           1.00       244
+   macro avg       1.00      1.00      1.00       244
+weighted avg       1.00      1.00      1.00       244
+
+Test Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.93      1.00      0.97        57
+           1       1.00      0.92      0.96        49
+
+    accuracy                           0.96       106
+   macro avg       0.97      0.96      0.96       106
+weighted avg       0.96      0.96      0.96       106
+
+AttentionLSTM Training
+                                                                        
+Current Num_Layers:  4
+Current Dropout:  0.5
+Current Learning Rate:  0.003
+Current Num_Epochs:  10
+Train accuracy: 0.9959016442298889
+Test accuracy: 0.9150943160057068
+Train Confusion Matrix:
+[[117   1]
+ [  0 126]]
+Test Confusion Matrix:
+[[49  8]
+ [ 1 48]]
+Train Classification Report:
+              precision    recall  f1-score   support
+
+           0       1.00      0.99      1.00       118
+           1       0.99      1.00      1.00       126
+
+    accuracy                           1.00       244
+   macro avg       1.00      1.00      1.00       244
+weighted avg       1.00      1.00      1.00       244
+
+Test Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.98      0.86      0.92        57
+           1       0.86      0.98      0.91        49
+
+    accuracy                           0.92       106
+   macro avg       0.92      0.92      0.92       106
+weighted avg       0.92      0.92      0.92       106
+
+AttentionLSTM Training
+                                                                          
+Current Num_Layers:  4
+Current Dropout:  0.5
+Current Learning Rate:  0.003
+Current Num_Epochs:  30
+Train accuracy: 1.0
+Test accuracy: 0.9150943160057068
+Train Confusion Matrix:
+[[118   0]
+ [  0 126]]
+Test Confusion Matrix:
+[[52  5]
+ [ 4 45]]
+Train Classification Report:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00       118
+           1       1.00      1.00      1.00       126
+
+    accuracy                           1.00       244
+   macro avg       1.00      1.00      1.00       244
+weighted avg       1.00      1.00      1.00       244
+
+Test Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.93      0.91      0.92        57
+           1       0.90      0.92      0.91        49
+
+    accuracy                           0.92       106
+   macro avg       0.91      0.92      0.91       106
+weighted avg       0.92      0.92      0.92       106
+
+AttentionLSTM Training
+                                                                           
+Current Num_Layers:  4
+Current Dropout:  0.5
+Current Learning Rate:  0.003
+Current Num_Epochs:  50
+Train accuracy: 1.0
+Test accuracy: 0.9056603908538818
+Train Confusion Matrix:
+[[118   0]
+ [  0 126]]
+Test Confusion Matrix:
+[[54  3]
+ [ 7 42]]
+Train Classification Report:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00       118
+           1       1.00      1.00      1.00       126
+
+    accuracy                           1.00       244
+   macro avg       1.00      1.00      1.00       244
+weighted avg       1.00      1.00      1.00       244
+
+Test Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.89      0.95      0.92        57
+           1       0.93      0.86      0.89        49
+
+    accuracy                           0.91       106
+   macro avg       0.91      0.90      0.90       106
+weighted avg       0.91      0.91      0.91       106
+
+AttentionLSTM Training
+                                                                        
+Current Num_Layers:  4
+Current Dropout:  0.5
+Current Learning Rate:  0.007
+Current Num_Epochs:  10
+Train accuracy: 0.9959016442298889
+Test accuracy: 0.9056603908538818
+Train Confusion Matrix:
+[[118   0]
+ [  1 125]]
+Test Confusion Matrix:
+[[52  5]
+ [ 5 44]]
+Train Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      1.00       118
+           1       1.00      0.99      1.00       126
+
+    accuracy                           1.00       244
+   macro avg       1.00      1.00      1.00       244
+weighted avg       1.00      1.00      1.00       244
+
+Test Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.91      0.91      0.91        57
+           1       0.90      0.90      0.90        49
+
+    accuracy                           0.91       106
+   macro avg       0.91      0.91      0.91       106
+weighted avg       0.91      0.91      0.91       106
+
+AttentionLSTM Training
+                                                                           
+Current Num_Layers:  4
+Current Dropout:  0.5
+Current Learning Rate:  0.007
+Current Num_Epochs:  30
+Train accuracy: 1.0
+Test accuracy: 0.9056603908538818
+Train Confusion Matrix:
+[[118   0]
+ [  0 126]]
+Test Confusion Matrix:
+[[54  3]
+ [ 7 42]]
+Train Classification Report:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00       118
+           1       1.00      1.00      1.00       126
+
+    accuracy                           1.00       244
+   macro avg       1.00      1.00      1.00       244
+weighted avg       1.00      1.00      1.00       244
+
+Test Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.89      0.95      0.92        57
+           1       0.93      0.86      0.89        49
+
+    accuracy                           0.91       106
+   macro avg       0.91      0.90      0.90       106
+weighted avg       0.91      0.91      0.91       106
+
+AttentionLSTM Training
+                                                                           
+Current Num_Layers:  4
+Current Dropout:  0.5
+Current Learning Rate:  0.007
+Current Num_Epochs:  50
+Train accuracy: 1.0
+Test accuracy: 0.9245283007621765
+Train Confusion Matrix:
+[[118   0]
+ [  0 126]]
+Test Confusion Matrix:
+[[55  2]
+ [ 6 43]]
+Train Classification Report:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00       118
+           1       1.00      1.00      1.00       126
+
+    accuracy                           1.00       244
+   macro avg       1.00      1.00      1.00       244
+weighted avg       1.00      1.00      1.00       244
+
+Test Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.90      0.96      0.93        57
+           1       0.96      0.88      0.91        49
+
+    accuracy                           0.92       106
+   macro avg       0.93      0.92      0.92       106
+weighted avg       0.93      0.92      0.92       106
+
+AttentionLSTM Training
+                                                                       
+Current Num_Layers:  8
+Current Dropout:  0.4
+Current Learning Rate:  0.001
+Current Num_Epochs:  10
+Train accuracy: 0.9672130942344666
+Test accuracy: 0.9056603908538818
+Train Confusion Matrix:
+[[114   4]
+ [  4 122]]
+Test Confusion Matrix:
+[[53  4]
+ [ 6 43]]
+Train Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.97      0.97      0.97       118
+           1       0.97      0.97      0.97       126
+
+    accuracy                           0.97       244
+   macro avg       0.97      0.97      0.97       244
+weighted avg       0.97      0.97      0.97       244
+
+Test Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.90      0.93      0.91        57
+           1       0.91      0.88      0.90        49
+
+    accuracy                           0.91       106
+   macro avg       0.91      0.90      0.90       106
+weighted avg       0.91      0.91      0.91       106
+
+AttentionLSTM Training
+                                                                          
+Current Num_Layers:  8
+Current Dropout:  0.4
+Current Learning Rate:  0.001
+Current Num_Epochs:  30
+Train accuracy: 1.0
+Test accuracy: 0.9528301954269409
+Train Confusion Matrix:
+[[118   0]
+ [  0 126]]
+Test Confusion Matrix:
+[[55  2]
+ [ 3 46]]
+Train Classification Report:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00       118
+           1       1.00      1.00      1.00       126
+
+    accuracy                           1.00       244
+   macro avg       1.00      1.00      1.00       244
+weighted avg       1.00      1.00      1.00       244
+
+Test Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.95      0.96      0.96        57
+           1       0.96      0.94      0.95        49
+
+    accuracy                           0.95       106
+   macro avg       0.95      0.95      0.95       106
+weighted avg       0.95      0.95      0.95       106
+
+AttentionLSTM Training
+                                                                           
+Current Num_Layers:  8
+Current Dropout:  0.4
+Current Learning Rate:  0.001
+Current Num_Epochs:  50
+Train accuracy: 1.0
+Test accuracy: 0.9339622855186462
+Train Confusion Matrix:
+[[118   0]
+ [  0 126]]
+Test Confusion Matrix:
+[[53  4]
+ [ 3 46]]
+Train Classification Report:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00       118
+           1       1.00      1.00      1.00       126
+
+    accuracy                           1.00       244
+   macro avg       1.00      1.00      1.00       244
+weighted avg       1.00      1.00      1.00       244
+
+Test Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.95      0.93      0.94        57
+           1       0.92      0.94      0.93        49
+
+    accuracy                           0.93       106
+   macro avg       0.93      0.93      0.93       106
+weighted avg       0.93      0.93      0.93       106
+
+AttentionLSTM Training
+                                                                       
+Current Num_Layers:  8
+Current Dropout:  0.4
+Current Learning Rate:  0.003
+Current Num_Epochs:  10
+Train accuracy: 0.9713114500045776
+Test accuracy: 0.9056603908538818
+Train Confusion Matrix:
+[[114   4]
+ [  3 123]]
+Test Confusion Matrix:
+[[49  8]
+ [ 2 47]]
+Train Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.97      0.97      0.97       118
+           1       0.97      0.98      0.97       126
+
+    accuracy                           0.97       244
+   macro avg       0.97      0.97      0.97       244
+weighted avg       0.97      0.97      0.97       244
+
+Test Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.96      0.86      0.91        57
+           1       0.85      0.96      0.90        49
+
+    accuracy                           0.91       106
+   macro avg       0.91      0.91      0.91       106
+weighted avg       0.91      0.91      0.91       106
+
+AttentionLSTM Training
+                                                                          
+Current Num_Layers:  8
+Current Dropout:  0.4
+Current Learning Rate:  0.003
+Current Num_Epochs:  30
+Train accuracy: 1.0
+Test accuracy: 0.8962264060974121
+Train Confusion Matrix:
+[[118   0]
+ [  0 126]]
+Test Confusion Matrix:
+[[48  9]
+ [ 2 47]]
+Train Classification Report:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00       118
+           1       1.00      1.00      1.00       126
+
+    accuracy                           1.00       244
+   macro avg       1.00      1.00      1.00       244
+weighted avg       1.00      1.00      1.00       244
+
+Test Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.96      0.84      0.90        57
+           1       0.84      0.96      0.90        49
+
+    accuracy                           0.90       106
+   macro avg       0.90      0.90      0.90       106
+weighted avg       0.90      0.90      0.90       106
+
+AttentionLSTM Training
+                                                                        
+Current Num_Layers:  8
+Current Dropout:  0.4
+Current Learning Rate:  0.003
+Current Num_Epochs:  50
+Train accuracy: 0.938524603843689
+Test accuracy: 0.8962264060974121
+Train Confusion Matrix:
+[[115   3]
+ [ 12 114]]
+Test Confusion Matrix:
+[[52  5]
+ [ 6 43]]
+Train Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.91      0.97      0.94       118
+           1       0.97      0.90      0.94       126
+
+    accuracy                           0.94       244
+   macro avg       0.94      0.94      0.94       244
+weighted avg       0.94      0.94      0.94       244
+
+Test Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.90      0.91      0.90        57
+           1       0.90      0.88      0.89        49
+
+    accuracy                           0.90       106
+   macro avg       0.90      0.89      0.90       106
+weighted avg       0.90      0.90      0.90       106
+
+AttentionLSTM Training
+                                                                       
+Current Num_Layers:  8
+Current Dropout:  0.4
+Current Learning Rate:  0.007
+Current Num_Epochs:  10
+c:\Users\Marshall\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\metrics\_classification.py:1509: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+c:\Users\Marshall\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\metrics\_classification.py:1509: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+c:\Users\Marshall\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\metrics\_classification.py:1509: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+c:\Users\Marshall\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\metrics\_classification.py:1509: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+c:\Users\Marshall\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\metrics\_classification.py:1509: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+c:\Users\Marshall\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\metrics\_classification.py:1509: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+Train accuracy: 0.5163934230804443
+Test accuracy: 0.46226415038108826
+Train Confusion Matrix:
+[[  0 118]
+ [  0 126]]
+Test Confusion Matrix:
+[[ 0 57]
+ [ 0 49]]
+Train Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.00      0.00      0.00       118
+           1       0.52      1.00      0.68       126
+
+    accuracy                           0.52       244
+   macro avg       0.26      0.50      0.34       244
+weighted avg       0.27      0.52      0.35       244
+
+Test Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.00      0.00      0.00        57
+           1       0.46      1.00      0.63        49
+
+    accuracy                           0.46       106
+   macro avg       0.23      0.50      0.32       106
+weighted avg       0.21      0.46      0.29       106
+
+AttentionLSTM Training
+                                                                         
+Current Num_Layers:  8
+Current Dropout:  0.4
+Current Learning Rate:  0.007
+Current Num_Epochs:  30
+Train accuracy: 0.9221311211585999
+Test accuracy: 0.849056601524353
+Train Confusion Matrix:
+[[118   0]
+ [ 19 107]]
+Test Confusion Matrix:
+[[55  2]
+ [14 35]]
+Train Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.86      1.00      0.93       118
+           1       1.00      0.85      0.92       126
+
+    accuracy                           0.92       244
+   macro avg       0.93      0.92      0.92       244
+weighted avg       0.93      0.92      0.92       244
+
+Test Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.80      0.96      0.87        57
+           1       0.95      0.71      0.81        49
+
+    accuracy                           0.85       106
+   macro avg       0.87      0.84      0.84       106
+weighted avg       0.87      0.85      0.85       106
+
+AttentionLSTM Training
+                                                                        
+Current Num_Layers:  8
+Current Dropout:  0.4
+Current Learning Rate:  0.007
+Current Num_Epochs:  50
+c:\Users\Marshall\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\metrics\_classification.py:1509: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+c:\Users\Marshall\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\metrics\_classification.py:1509: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+c:\Users\Marshall\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\metrics\_classification.py:1509: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+c:\Users\Marshall\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\metrics\_classification.py:1509: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+c:\Users\Marshall\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\metrics\_classification.py:1509: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+c:\Users\Marshall\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\metrics\_classification.py:1509: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+Train accuracy: 0.5163934230804443
+Test accuracy: 0.46226415038108826
+Train Confusion Matrix:
+[[  0 118]
+ [  0 126]]
+Test Confusion Matrix:
+[[ 0 57]
+ [ 0 49]]
+Train Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.00      0.00      0.00       118
+           1       0.52      1.00      0.68       126
+
+    accuracy                           0.52       244
+   macro avg       0.26      0.50      0.34       244
+weighted avg       0.27      0.52      0.35       244
+
+Test Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.00      0.00      0.00        57
+           1       0.46      1.00      0.63        49
+
+    accuracy                           0.46       106
+   macro avg       0.23      0.50      0.32       106
+weighted avg       0.21      0.46      0.29       106
+
+AttentionLSTM Training
+                                                                       
+Current Num_Layers:  8
+Current Dropout:  0.5
+Current Learning Rate:  0.001
+Current Num_Epochs:  10
+Train accuracy: 0.9590163826942444
+Test accuracy: 0.8113207817077637
+Train Confusion Matrix:
+[[112   6]
+ [  4 122]]
+Test Confusion Matrix:
+[[42 15]
+ [ 5 44]]
+Train Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.97      0.95      0.96       118
+           1       0.95      0.97      0.96       126
+
+    accuracy                           0.96       244
+   macro avg       0.96      0.96      0.96       244
+weighted avg       0.96      0.96      0.96       244
+
+Test Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.89      0.74      0.81        57
+           1       0.75      0.90      0.81        49
+
+    accuracy                           0.81       106
+   macro avg       0.82      0.82      0.81       106
+weighted avg       0.83      0.81      0.81       106
+
+AttentionLSTM Training
+                                                                          
+Current Num_Layers:  8
+Current Dropout:  0.5
+Current Learning Rate:  0.001
+Current Num_Epochs:  30
+Train accuracy: 1.0
+Test accuracy: 0.9150943160057068
+Train Confusion Matrix:
+[[118   0]
+ [  0 126]]
+Test Confusion Matrix:
+[[55  2]
+ [ 7 42]]
+Train Classification Report:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00       118
+           1       1.00      1.00      1.00       126
+
+    accuracy                           1.00       244
+   macro avg       1.00      1.00      1.00       244
+weighted avg       1.00      1.00      1.00       244
+
+Test Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.89      0.96      0.92        57
+           1       0.95      0.86      0.90        49
+
+    accuracy                           0.92       106
+   macro avg       0.92      0.91      0.91       106
+weighted avg       0.92      0.92      0.91       106
+
+AttentionLSTM Training
+                                                                          
+Current Num_Layers:  8
+Current Dropout:  0.5
+Current Learning Rate:  0.001
+Current Num_Epochs:  50
+Train accuracy: 1.0
+Test accuracy: 0.9339622855186462
+Train Confusion Matrix:
+[[118   0]
+ [  0 126]]
+Test Confusion Matrix:
+[[53  4]
+ [ 3 46]]
+Train Classification Report:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00       118
+           1       1.00      1.00      1.00       126
+
+    accuracy                           1.00       244
+   macro avg       1.00      1.00      1.00       244
+weighted avg       1.00      1.00      1.00       244
+
+Test Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.95      0.93      0.94        57
+           1       0.92      0.94      0.93        49
+
+    accuracy                           0.93       106
+   macro avg       0.93      0.93      0.93       106
+weighted avg       0.93      0.93      0.93       106
+
+AttentionLSTM Training
+                                                                        
+Current Num_Layers:  8
+Current Dropout:  0.5
+Current Learning Rate:  0.003
+Current Num_Epochs:  10
+Train accuracy: 0.9262295365333557
+Test accuracy: 0.8867924809455872
+Train Confusion Matrix:
+[[118   0]
+ [ 18 108]]
+Test Confusion Matrix:
+[[55  2]
+ [10 39]]
+Train Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.87      1.00      0.93       118
+           1       1.00      0.86      0.92       126
+
+    accuracy                           0.93       244
+   macro avg       0.93      0.93      0.93       244
+weighted avg       0.94      0.93      0.93       244
+
+Test Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.85      0.96      0.90        57
+           1       0.95      0.80      0.87        49
+
+    accuracy                           0.89       106
+   macro avg       0.90      0.88      0.88       106
+weighted avg       0.89      0.89      0.89       106
+
+AttentionLSTM Training
+                                                                        
+Current Num_Layers:  8
+Current Dropout:  0.5
+Current Learning Rate:  0.003
+Current Num_Epochs:  30
+Train accuracy: 0.9262295365333557
+Test accuracy: 0.8773584961891174
+Train Confusion Matrix:
+[[116   2]
+ [ 16 110]]
+Test Confusion Matrix:
+[[52  5]
+ [ 8 41]]
+Train Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.88      0.98      0.93       118
+           1       0.98      0.87      0.92       126
+
+    accuracy                           0.93       244
+   macro avg       0.93      0.93      0.93       244
+weighted avg       0.93      0.93      0.93       244
+
+Test Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.87      0.91      0.89        57
+           1       0.89      0.84      0.86        49
+
+    accuracy                           0.88       106
+   macro avg       0.88      0.87      0.88       106
+weighted avg       0.88      0.88      0.88       106
+
+AttentionLSTM Training
+                                                                           
+Current Num_Layers:  8
+Current Dropout:  0.5
+Current Learning Rate:  0.003
+Current Num_Epochs:  50
+Train accuracy: 0.9877049326896667
+Test accuracy: 0.9056603908538818
+Train Confusion Matrix:
+[[118   0]
+ [  3 123]]
+Test Confusion Matrix:
+[[56  1]
+ [ 9 40]]
+Train Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.98      1.00      0.99       118
+           1       1.00      0.98      0.99       126
+
+    accuracy                           0.99       244
+   macro avg       0.99      0.99      0.99       244
+weighted avg       0.99      0.99      0.99       244
+
+Test Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.86      0.98      0.92        57
+           1       0.98      0.82      0.89        49
+
+    accuracy                           0.91       106
+   macro avg       0.92      0.90      0.90       106
+weighted avg       0.91      0.91      0.90       106
+
+AttentionLSTM Training
+                                                                       
+Current Num_Layers:  8
+Current Dropout:  0.5
+Current Learning Rate:  0.007
+Current Num_Epochs:  10
+c:\Users\Marshall\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\metrics\_classification.py:1509: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+c:\Users\Marshall\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\metrics\_classification.py:1509: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+c:\Users\Marshall\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\metrics\_classification.py:1509: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+c:\Users\Marshall\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\metrics\_classification.py:1509: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+c:\Users\Marshall\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\metrics\_classification.py:1509: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+c:\Users\Marshall\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\metrics\_classification.py:1509: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+Train accuracy: 0.4836065471172333
+Test accuracy: 0.5377358198165894
+Train Confusion Matrix:
+[[118   0]
+ [126   0]]
+Test Confusion Matrix:
+[[57  0]
+ [49  0]]
+Train Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.48      1.00      0.65       118
+           1       0.00      0.00      0.00       126
+
+    accuracy                           0.48       244
+   macro avg       0.24      0.50      0.33       244
+weighted avg       0.23      0.48      0.32       244
+
+Test Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.54      1.00      0.70        57
+           1       0.00      0.00      0.00        49
+
+    accuracy                           0.54       106
+   macro avg       0.27      0.50      0.35       106
+weighted avg       0.29      0.54      0.38       106
+
+AttentionLSTM Training
+                                                                        
+Current Num_Layers:  8
+Current Dropout:  0.5
+Current Learning Rate:  0.007
+Current Num_Epochs:  30
+c:\Users\Marshall\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\metrics\_classification.py:1509: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+c:\Users\Marshall\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\metrics\_classification.py:1509: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+c:\Users\Marshall\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\metrics\_classification.py:1509: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+c:\Users\Marshall\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\metrics\_classification.py:1509: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+c:\Users\Marshall\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\metrics\_classification.py:1509: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+c:\Users\Marshall\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\metrics\_classification.py:1509: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+Train accuracy: 0.5163934230804443
+Test accuracy: 0.46226415038108826
+Train Confusion Matrix:
+[[  0 118]
+ [  0 126]]
+Test Confusion Matrix:
+[[ 0 57]
+ [ 0 49]]
+Train Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.00      0.00      0.00       118
+           1       0.52      1.00      0.68       126
+
+    accuracy                           0.52       244
+   macro avg       0.26      0.50      0.34       244
+weighted avg       0.27      0.52      0.35       244
+
+Test Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.00      0.00      0.00        57
+           1       0.46      1.00      0.63        49
+
+    accuracy                           0.46       106
+   macro avg       0.23      0.50      0.32       106
+weighted avg       0.21      0.46      0.29       106
+
+AttentionLSTM Training
+                                                                        
+Current Num_Layers:  8
+Current Dropout:  0.5
+Current Learning Rate:  0.007
+Current Num_Epochs:  50
+Train accuracy: 0.5163934230804443
+Test accuracy: 0.46226415038108826
+Train Confusion Matrix:
+[[  0 118]
+ [  0 126]]
+Test Confusion Matrix:
+[[ 0 57]
+ [ 0 49]]
+Train Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.00      0.00      0.00       118
+           1       0.52      1.00      0.68       126
+
+    accuracy                           0.52       244
+   macro avg       0.26      0.50      0.34       244
+weighted avg       0.27      0.52      0.35       244
+
+Test Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.00      0.00      0.00        57
+           1       0.46      1.00      0.63        49
+
+    accuracy                           0.46       106
+   macro avg       0.23      0.50      0.32       106
+weighted avg       0.21      0.46      0.29       106
+
+c:\Users\Marshall\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\metrics\_classification.py:1509: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+c:\Users\Marshall\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\metrics\_classification.py:1509: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+c:\Users\Marshall\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\metrics\_classification.py:1509: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+c:\Users\Marshall\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\metrics\_classification.py:1509: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+c:\Users\Marshall\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\metrics\_classification.py:1509: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+c:\Users\Marshall\AppData\Local\Programs\Python\Python310\lib\site-packages\sklearn\metrics\_classification.py:1509: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
